@@ -88,15 +88,3 @@ https://myfashionmart-app.vercel.app/
 
 ![App Screenshot](https://miro.medium.com/max/1400/1*0tJctCJFNS8CaColsgVl3g.webp)
 
-<!-- ## Presentation -->
-
-Presentation -()
- -->
-## Contributors
-
-- [@Udhaya Prakash](https://github.com/udhai-20)
-- [@Pandit Gangadhar](https://github.com/pandit0305)
-- [@Sayan Ghosh](https://github.com/Sayan97Ghosh)
-- [@Md Ali](https://github.com/mdali-11)
-
-
